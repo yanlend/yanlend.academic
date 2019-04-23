@@ -32,4 +32,10 @@ subtitle = ""
   name = "Medical image analysis"
   description = "100%"
 
+[[feature]]
+  icon = "futbol"
+  icon_pack = "fas"
+  name = "Football"
+  description = "50%"
+
 +++
