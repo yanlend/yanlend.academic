@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Self study"
-  organization_url = "www.youtube.com"
+  organization_url = "https://www.youtube.com"
   title = "Deep Reinforcement Learning"
   url = ""
   certificate_url = ""
